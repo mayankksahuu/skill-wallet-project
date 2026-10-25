@@ -43,7 +43,7 @@ Without an API key the backend runs in **demo mode** (clearly labelled "DEMO" sa
 ```bash
 cd frontend
 npm install
-npm run dev                         # http://localhost:5173
+npm run dev                         # [http://localhost:5173](http://localhost:5173/)
 ```
 Vite proxies `/api` to `localhost:8000`. For production set `VITE_API_URL` (see `frontend/.env.example`) and run `npm run build`.
 

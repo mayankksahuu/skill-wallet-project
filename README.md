@@ -21,7 +21,7 @@ Full-stack decision-support system for construction professionals: a **React (Vi
 | Construction knowledge assistant | `POST /api/knowledge/ask` | JSON (with chat history) |
 | Health | `GET /api/health` | – |
 
-Interactive API docs: http://localhost:8000/docs
+Interactive API docs:http://localhost:5173/
 
 ## Quick start
 
